@@ -1,0 +1,8 @@
+(* Bliss kernel, based on the Joy code *)
+
+LIBRA
+
+	putchars == [Elixir:IO puts 1] apply; (* We'll have to use : here for reasons of compatibility *)
+	
+  say == "blubb" putchars;
+	add1 == 1 + .
