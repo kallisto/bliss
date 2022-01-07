@@ -1,0 +1,7 @@
+[package]
+name = "bliss_03"
+version = "0.1.0"
+authors = ["ephe-meral"]
+edition = "2018"
+
+[dependencies]
